@@ -26,6 +26,11 @@ It’s one of those "*cool looking things you randomly buy from AliExpress*" and
 
 ---
 
+## How to use?
+
+- Put TM1622.C and TM1622.H into your project file and link 'em
+- Enjoy!
+
 ## ⚙️ Requirements
 
 - STM32 microcontroller (tested with STM32F103, but I am pretty sure this will work on different nucleos since this driver uses standard HAL library)
