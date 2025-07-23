@@ -89,3 +89,4 @@ void TM1622_ScrollPause(const char* str, uint32_t scroll_delay, uint32_t pause_m
 #endif
 
 #endif /* __TM1622_H__ */
+
