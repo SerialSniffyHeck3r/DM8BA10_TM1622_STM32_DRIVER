@@ -36,3 +36,4 @@ It’s one of those "*cool looking things you randomly buy from AliExpress*" and
 - STM32 microcontroller (tested with STM32F103, but I am pretty sure this will work on different nucleos since this driver uses standard HAL library)
 - HAL library (CubeMX)
 - A patient and slightly masochistic attitude
+## 신승현 바보 
