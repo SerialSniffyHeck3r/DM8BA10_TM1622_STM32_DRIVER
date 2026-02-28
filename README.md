@@ -8,7 +8,7 @@
 ## What is this?
 
 This repository contains a custom driver written from scratch for the **DM8BA10 LCD** display module, powered by a mysterious **TM1622** controller.  
-It’s one of those "*cool looking things you randomly buy from AliExpress*" and then realize... **there’s no documentation for it.** 🤷
+It’s one of those "*cool looking things you randomly buy from AliExpress*" and then realize... **there’s no documentation for it.** 
 
 ---
 
