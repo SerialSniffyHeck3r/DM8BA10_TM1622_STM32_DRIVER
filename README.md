@@ -13,7 +13,9 @@ Aliexpress에서 '그저 멋있어 보여서' 충동적으로 구매한 10자리
 ## What is this?
 
 This repository contains a custom driver written from scratch for the **DM8BA10 LCD** display module, powered by a mysterious **TM1622** controller.  
-It’s one of those "*cool looking things you randomly buy from AliExpress*" and then realize... **there’s no documentation for it.** 
+It’s one of those *cool looking things you randomly buy from AliExpress* without some good resources... thats sad.
+
+Luckily we know what drives the actual hardware, and seller does provide a driver file for Arduino. 
 
 ---
 
